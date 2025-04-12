@@ -22,6 +22,17 @@ The aim of this project is to explore the relationship betweeen **goal differenc
 - **Model Accuracy:** Achieved an R² Score of 0.80 on test data.
 - **Insight:** Goal difference alone is a strong, though not perfect, predictor of league finish.
 
+## Visualisations
+
+Here are some of the visualisations from the project:
+
+- **League Position vs Goal Difference**:
+![League Position vs Goal Difference](images/scatter_plot.png)
+
+**Residuals Distribution**:
+![Resisuals Distribution](images/residual_plot.png)
+
+
 ## 🔧 How to Run
 1. Clone this repositiory.
 2. Install dependencies:
