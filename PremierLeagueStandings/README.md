@@ -1,6 +1,6 @@
 #⚽ Premier League Standings Predictor
 
-A simple data science project that uses **linear regression** to predict final Premier League positions based on a team's goal difference.
+A simple data science project that uses **linear regression and other metrics** to predict final Premier League positions based on a team's goal difference.
 
 ## 📌 Objective
 The aim of this project is to explore the relationship betweeen **goal difference** and **final league position** in teh English Premier League, and build a regression model to predict standings.
