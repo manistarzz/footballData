@@ -2,6 +2,7 @@
 A collection of football data analysis projects covering Premier League performance, player statistics, and match visualisations — built using Python, Pandas, and Jupyter Notebooks.
 
 ## 📁 Repository Structure
+~~~
 footballData/
 │
 ├── notebooks/
@@ -22,6 +23,8 @@ footballData/
 │
 └── reports/
     └── Chelsea_2223_Analysis.pdf  # Full written analysis: Chelsea's 22/23 decline
+~~~
+
 ---
 
 ## 📊 Projects
